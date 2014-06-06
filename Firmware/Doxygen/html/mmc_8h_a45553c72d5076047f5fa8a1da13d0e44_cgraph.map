@@ -1,0 +1,6 @@
+<map id="mmcSendCmd" name="mmcSendCmd">
+<area shape="rect" id="node2" href="$mmc_8c.html#aab58b8b57456cc34e76aaa63478b424a" title="spiSendFrame" alt="" coords="163,31,269,57"/>
+<area shape="rect" id="node3" href="$comm_8c.html#acac01b5fff8d81782043a7510da979dc" title="Transmit method for USCI B0 SPI operation. " alt="" coords="323,5,410,32"/>
+<area shape="rect" id="node5" href="$comm_8c.html#a30cd6ac2ee3f3ebb409b63fcdcabf28d" title="Get method for USCI B0 status. " alt="" coords="317,56,416,83"/>
+<area shape="rect" id="node4" href="$comm_8c.html#a4f101e86fed045bdeccb60f91eaa02fd" title="Configures USCI B0 for operation. " alt="" coords="464,5,544,32"/>
+</map>

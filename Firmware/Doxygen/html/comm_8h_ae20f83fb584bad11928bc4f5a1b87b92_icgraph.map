@@ -1,0 +1,6 @@
+<map id="uartA0Read" name="uartA0Read">
+<area shape="rect" id="node2" href="$ftdi_8h.html#a7d56e633a9a1be8132b278adfb68469e" title="Reads a specified number of bytes from the FTDI chip. " alt="" coords="147,5,216,32"/>
+<area shape="rect" id="node5" href="$ftdi_8h.html#a212fb973685c61816c1f0b798cf780e1" title="Reads a single byte from the FTDI chip RX buffer. " alt="" coords="144,56,219,83"/>
+<area shape="rect" id="node3" href="$system_8h.html#a972eedbc68ae911757b8efa8952aa1fc" title="Update the system state. " alt="" coords="267,5,359,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="408,5,459,32"/>
+</map>

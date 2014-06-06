@@ -1,0 +1,5 @@
+<map id="rtcInit" name="rtcInit">
+<area shape="rect" id="node2" href="$timing_8c.html#a2e38fb16b24cf50f4e1c49b59d37f1d4" title="Auxiliary Clock Initialization Routine. " alt="" coords="115,5,189,32"/>
+<area shape="rect" id="node3" href="$rtc_8c.html#a2c5b94d098744e15e474f42dd7996727" title="rtcSetTime" alt="" coords="109,56,195,83"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#a932ad0638809d1facdb1481fee1d78c8" title="rtcGetTime" alt="" coords="243,56,330,83"/>
+</map>

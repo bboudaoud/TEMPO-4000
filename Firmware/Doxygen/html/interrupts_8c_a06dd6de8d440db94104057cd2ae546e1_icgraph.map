@@ -1,0 +1,12 @@
+<map id="dummyCallback" name="dummyCallback">
+<area shape="rect" id="node2" href="$interrupts_8c.html#a08e51a1426d117ba45dfd329b2988bbb" title="clearMPUCallback" alt="" coords="169,107,298,133"/>
+<area shape="rect" id="node10" href="$interrupts_8c.html#a3a93ef67c9f288c8151704a26e8e40ca" title="clearSW1Callback" alt="" coords="169,157,298,184"/>
+<area shape="rect" id="node11" href="$interrupts_8c.html#ac387bd76de3d7ede0059cee7f0ddfa76" title="clearSW2Callback" alt="" coords="169,208,298,235"/>
+<area shape="rect" id="node3" href="$system_8h.html#ab112a1e0291e6fe889425ea1af602171" title="Put the system to sleep. " alt="" coords="531,107,607,133"/>
+<area shape="rect" id="node6" href="$system_8h.html#abbd955a477f08dbfae43e8c40b7b4d3b" title="End a data session. " alt="" coords="347,157,461,184"/>
+<area shape="rect" id="node7" href="$system_8h.html#ad5e178a6a6d6d9bf4451608d1ed1c7ef" title="Pause the system during data collection. " alt="" coords="364,56,444,83"/>
+<area shape="rect" id="node4" href="$system_8h.html#a3281e94ef2cc4e5d88bfcdaa503e673c" title="Execute the next event waiting on the event queue. " alt="" coords="678,107,789,133"/>
+<area shape="rect" id="node5" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="837,107,888,133"/>
+<area shape="rect" id="node8" href="$system_8h.html#a776671d27b9823dfa3b52cb403eb5e2f" title="Start a new data session. " alt="" coords="510,5,629,32"/>
+<area shape="rect" id="node9" href="$system_8h.html#af0c0706aba53d227b07eb1c9fbadd568" title="Resume collection during a pause from data collection. " alt="" coords="524,56,615,83"/>
+</map>

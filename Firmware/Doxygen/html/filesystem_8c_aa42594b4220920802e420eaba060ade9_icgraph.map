@@ -1,0 +1,17 @@
+<map id="updateCardInfo" name="updateCardInfo">
+<area shape="rect" id="node2" href="$filesystem_8h.html#a37237af6c97cdc2d5a694f4e06892a76" title="Initialize the file system. " alt="" coords="190,5,239,32"/>
+<area shape="rect" id="node3" href="$filesystem_8h.html#ad29a980f158d6e70f9d4eeac81863b2e" title="End a running session. " alt="" coords="163,107,266,133"/>
+<area shape="rect" id="node4" href="$filesystem_8h.html#a365bb073efe6ce2fd372d3ba9c98affb" title="Halt the file system and save the state. " alt="" coords="329,56,383,83"/>
+<area shape="rect" id="node5" href="$system_8h.html#abbd955a477f08dbfae43e8c40b7b4d3b" title="End a data session. " alt="" coords="721,107,834,133"/>
+<area shape="rect" id="node8" href="$system_8h.html#aed7fd0b0746e3855fcbd2f62b4b34c3e" title="Enqueue a sysEvent in the event queue for execution. " alt="" coords="315,220,397,247"/>
+<area shape="rect" id="node6" href="$system_8h.html#a3281e94ef2cc4e5d88bfcdaa503e673c" title="Execute the next event waiting on the event queue. " alt="" coords="1051,233,1162,260"/>
+<area shape="rect" id="node7" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="1211,272,1261,299"/>
+<area shape="rect" id="node9" href="$system_8h.html#a2be52727e38f4ff8974fee6e8cc7154f" title="Wake the system from sleep to start taking data or enter command. " alt="" coords="451,157,528,184"/>
+<area shape="rect" id="node11" href="$system_8h.html#a0e2e8dad2acdd9148767c662b08edb1b" title="Sample the MPU on an interrupt. " alt="" coords="446,220,533,247"/>
+<area shape="rect" id="node15" href="$system_8h.html#a741860d7c7ca2fc2ab305996586da3a8" title="Stop data collection. " alt="" coords="589,309,665,336"/>
+<area shape="rect" id="node16" href="$system_8h.html#a972eedbc68ae911757b8efa8952aa1fc" title="Update the system state. " alt="" coords="897,321,989,348"/>
+<area shape="rect" id="node10" href="$system_8h.html#ab112a1e0291e6fe889425ea1af602171" title="Put the system to sleep. " alt="" coords="589,157,665,184"/>
+<area shape="rect" id="node12" href="$system_8h.html#a776671d27b9823dfa3b52cb403eb5e2f" title="Start a new data session. " alt="" coords="883,233,1002,260"/>
+<area shape="rect" id="node13" href="$system_8h.html#af0c0706aba53d227b07eb1c9fbadd568" title="Resume collection during a pause from data collection. " alt="" coords="581,259,672,285"/>
+<area shape="rect" id="node14" href="$system_8h.html#ad5e178a6a6d6d9bf4451608d1ed1c7ef" title="Pause the system during data collection. " alt="" coords="737,259,817,285"/>
+</map>

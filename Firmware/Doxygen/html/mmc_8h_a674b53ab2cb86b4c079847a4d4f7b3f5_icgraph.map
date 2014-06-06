@@ -1,0 +1,7 @@
+<map id="mmcInit" name="mmcInit">
+<area shape="rect" id="node2" href="$flash_8h.html#a9f9e0b850d75d42457f69e391e89c4c6" title="Initialize flash card for communication. " alt="" coords="123,31,189,57"/>
+<area shape="rect" id="node3" href="$filesystem_8h.html#a37237af6c97cdc2d5a694f4e06892a76" title="Initialize the file system. " alt="" coords="253,5,302,32"/>
+<area shape="rect" id="node4" href="$filesystem_8h.html#a269eb183d5620ad03476838d2d6dcf2c" title="Resume the file system. " alt="" coords="237,56,317,83"/>
+<area shape="rect" id="node5" href="$system_8h.html#a771c49564e557c43915532fe5be26f85" title="Initialize the system (after reset) " alt="" coords="366,56,426,83"/>
+<area shape="rect" id="node6" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="475,56,525,83"/>
+</map>

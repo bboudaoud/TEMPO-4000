@@ -1,0 +1,7 @@
+<map id="comm.c" name="comm.c">
+<area shape="rect" id="node2" href="$comm_8h.html" title="This library provides functions for interfacing MSP430 USCI modules in a relatively intuitive way..." alt="" coords="123,80,192,107"/>
+<area shape="rect" id="node3" href="$util_8h.html" title="util.h" alt="" coords="19,155,69,181"/>
+<area shape="rect" id="node6" href="$comm__hal__5342_8h.html" title="This library provides simple HAL level functionality for setting up and clearing I/O pins for USCI op..." alt="" coords="93,155,221,181"/>
+<area shape="rect" id="node8" href="$clocks_8h.html" title="clocks.h" alt="" coords="246,155,316,181"/>
+<area shape="rect" id="node4" href="$hal_8h.html" title="hal.h" alt="" coords="19,229,69,256"/>
+</map>

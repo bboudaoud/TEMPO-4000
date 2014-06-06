@@ -1,0 +1,5 @@
+<map id="chargingIntCfg" name="chargingIntCfg">
+<area shape="rect" id="node2" href="$system_8h.html#af749a88756fd8b8659a50ca233c5b0f6" title="Setup port direction, selection, and (sometimes) values. " alt="" coords="158,5,226,32"/>
+<area shape="rect" id="node3" href="$system_8h.html#a771c49564e557c43915532fe5be26f85" title="Initialize the system (after reset) " alt="" coords="275,5,335,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="384,5,435,32"/>
+</map>

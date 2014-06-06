@@ -1,0 +1,6 @@
+<map id="fsStartSession" name="fsStartSession">
+<area shape="rect" id="node2" href="$filesystem_8c.html#aeff5276ca19830c36f34523ec7e37cc8" title="Update the session info in flash. " alt="" coords="160,5,259,32"/>
+<area shape="rect" id="node5" href="$rtc_8c.html#a932ad0638809d1facdb1481fee1d78c8" title="rtcGetTime" alt="" coords="166,56,253,83"/>
+<area shape="rect" id="node3" href="$flash_8c.html#a7f9ba32003fba07b69105b9bea9fed4c" title="Write a sector and read it back to verify correctness. " alt="" coords="307,5,431,32"/>
+<area shape="rect" id="node4" href="$flash_8h.html#aab676ef9ba7690db2729bc7901975927" title="Perform a 16&#45;bit fletcher checksum on a buffer. " alt="" coords="481,5,607,32"/>
+</map>

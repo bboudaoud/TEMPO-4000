@@ -1,0 +1,6 @@
+<map id="mpuSetup" name="mpuSetup">
+<area shape="rect" id="node2" href="$mpu_8c.html#ad5719093bdef3795b0ab436e6b9d7703" title="This function writes a single byte to a register in the MPU6050. " alt="" coords="136,31,237,57"/>
+<area shape="rect" id="node3" href="$comm_8c.html#ae0290657fef25a40fcb6cc520fd6a5d6" title="Transmit method for USCI B1 I2C operation. " alt="" coords="291,5,378,32"/>
+<area shape="rect" id="node5" href="$comm_8c.html#a1eb0cd49631429c70b5b46c6438721a9" title="Get method for USCI B1 status. " alt="" coords="285,56,384,83"/>
+<area shape="rect" id="node4" href="$comm_8c.html#a8f7f68ec9a8b50cfdb98163787157ee2" title="Configures USCI B1 for operation. " alt="" coords="432,5,512,32"/>
+</map>

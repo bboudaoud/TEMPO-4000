@@ -1,0 +1,51 @@
+<map id="updateState" name="updateState">
+<area shape="rect" id="node2" href="$system_8c.html#aed7fd0b0746e3855fcbd2f62b4b34c3e" title="Enqueue a sysEvent in the event queue for execution. " alt="" coords="160,309,243,336"/>
+<area shape="rect" id="node10" href="$system_8c.html#a53c9ab66d66cad62ac9727b44f6dc6a4" title="(Re&#45;)initialize the event queue " alt="" coords="162,56,241,83"/>
+<area shape="rect" id="node11" href="$ftdi_8c.html#aca2328b7add537c57c0f9d7e25cfea80" title="Clears buffer management for the FTDI UART channel. " alt="" coords="166,5,237,32"/>
+<area shape="rect" id="node13" href="$ftdi_8c.html#ae9d5b6de0cb5cb26a685197f22e8876e" title="Gets the number of bytes available from the FTDI chip. " alt="" coords="147,107,255,133"/>
+<area shape="rect" id="node15" href="$ftdi_8c.html#a30dae7ee9f6c99547f43691d2eae8681" title="Gets the status of the FTDI communications interface. " alt="" coords="152,157,251,184"/>
+<area shape="rect" id="node17" href="$ftdi_8c.html#a7d56e633a9a1be8132b278adfb68469e" title="Reads a specified number of bytes from the FTDI chip. " alt="" coords="167,208,236,235"/>
+<area shape="rect" id="node19" href="$command_8c.html#ae72397faaa65c39e4f2f4823c19c43d2" title="runCommand" alt="" coords="152,715,251,741"/>
+<area shape="rect" id="node3" href="$infoflash_8c.html#a365774cdf6450cd9df23360511da22a7" title="Write the event queue overflow critical flag to info flash. " alt="" coords="308,259,444,285"/>
+<area shape="rect" id="node4" href="$filesystem_8c.html#ad29a980f158d6e70f9d4eeac81863b2e" title="End a running session. " alt="" coords="325,360,427,387"/>
+<area shape="rect" id="node7" href="$rtc_8c.html#a932ad0638809d1facdb1481fee1d78c8" title="rtcGetTime" alt="" coords="694,461,781,488"/>
+<area shape="rect" id="node5" href="$flash_8c.html#a7f9ba32003fba07b69105b9bea9fed4c" title="Write a sector and read it back to verify correctness. " alt="" coords="675,309,799,336"/>
+<area shape="rect" id="node8" href="$filesystem_8c.html#aeff5276ca19830c36f34523ec7e37cc8" title="Update the session info in flash. " alt="" coords="511,335,609,361"/>
+<area shape="rect" id="node9" href="$filesystem_8c.html#aa42594b4220920802e420eaba060ade9" title="Update the card info in flash. " alt="" coords="506,233,614,260"/>
+<area shape="rect" id="node6" href="$flash_8h.html#aab676ef9ba7690db2729bc7901975927" title="Perform a 16&#45;bit fletcher checksum on a buffer. " alt="" coords="859,588,986,615"/>
+<area shape="rect" id="node12" href="$comm_8c.html#af4dfad55f1691c971928cf185a338f84" title="Resets USCI A0 without writing over control regs. " alt="" coords="333,5,419,32"/>
+<area shape="rect" id="node14" href="$comm_8c.html#a74008ee44a0da1e4513aeef868e79598" title="Get method for USCI A0 RX buffer size. " alt="" coords="318,107,434,133"/>
+<area shape="rect" id="node16" href="$comm_8c.html#a55dc91d5bee97a54b187edc2e51bd257" title="Get method for USCI A0 status. " alt="" coords="327,157,425,184"/>
+<area shape="rect" id="node18" href="$comm_8c.html#ae20f83fb584bad11928bc4f5a1b87b92" title="Receive method for USCI A0 UART operation. " alt="" coords="331,208,421,235"/>
+<area shape="rect" id="node20" href="$command_8c.html#ad3f98469f9ff5a8f3029ef544ac26862" title="&quot;Handshake&quot; with the node to unlock access to the other commands " alt="" coords="333,841,419,868"/>
+<area shape="rect" id="node21" href="$command_8c.html#a9b70c48dcddc545c4345e8be5dc2408f" title="Get the system RTC time and return it in the payload. " alt="" coords="331,487,421,513"/>
+<area shape="rect" id="node23" href="$command_8c.html#a74ad95c8e16d4a6705ccb2f6417f84c4" title="Set the system RTC time to a specific value. " alt="" coords="514,537,606,564"/>
+<area shape="rect" id="node24" href="$command_8c.html#a64a8afbab13873e4393ecf425f9e5c77" title="Get the system firmware version. " alt="" coords="322,993,430,1020"/>
+<area shape="rect" id="node25" href="$command_8c.html#a716012d22c441a411b412782c4064917" title="Get the node identification number. " alt="" coords="323,1044,429,1071"/>
+<area shape="rect" id="node26" href="$command_8c.html#ab2a9e7ed091ce0504aaf4397316c0472" title="Get the card identification number. " alt="" coords="325,309,427,336"/>
+<area shape="rect" id="node33" href="$command_8c.html#a91165cceaf75c18884ffc2c2d91a068a" title="Fetch the desired sector from the card and return it. " alt="" coords="325,639,427,665"/>
+<area shape="rect" id="node36" href="$command_8c.html#ad20424e6fc023b8dee0a3dc0a6a759b9" title="Get the most recent accelerometer values. " alt="" coords="511,797,609,824"/>
+<area shape="rect" id="node41" href="$command_8c.html#a27a77d646b4df055cf68d845ee76c42b" title="Get the most recent gyro values. " alt="" coords="514,728,606,755"/>
+<area shape="rect" id="node43" href="$command_8c.html#ac749f9630fea98a47543724b93c495a5" title="Set the system sampling rate to the desired value. " alt="" coords="304,943,448,969"/>
+<area shape="rect" id="node47" href="$command_8c.html#a0ce4be48976f8eb6d7bf89185220abdb" title="Set the system sampling rate to the desired value. " alt="" coords="331,740,421,767"/>
+<area shape="rect" id="node48" href="$ftdi_8c.html#ae56a30fd1991c7adfba23d2fc910cafa" title="Writes a specified number of bytes to the FTDI chip. " alt="" coords="341,892,411,919"/>
+<area shape="rect" id="node22" href="$rtc_8c.html#a2c5b94d098744e15e474f42dd7996727" title="rtcSetTime" alt="" coords="517,487,603,513"/>
+<area shape="rect" id="node27" href="$flash_8c.html#a095c41f1a2a8a1aa697e3cfb048c8b16" title="Read the card ID directly from the MMC card. " alt="" coords="501,183,619,209"/>
+<area shape="rect" id="node28" href="$mmc_8c.html#a63d851f51d5bd56fe158a4d902d7a039" title="mmcReadRegister" alt="" coords="673,183,802,209"/>
+<area shape="rect" id="node29" href="$mmc_8c.html#aa088e2b5d1a1fc155c30d6b1c74c51c0" title="mmcSetBlockLength" alt="" coords="851,157,994,184"/>
+<area shape="rect" id="node30" href="$mmc_8c.html#a45553c72d5076047f5fa8a1da13d0e44" title="mmcSendCmd" alt="" coords="1054,120,1162,147"/>
+<area shape="rect" id="node31" href="$mmc_8c.html#a6e83355b1d22a078cac7314143c8b2d4" title="mmcGetResponse" alt="" coords="1043,196,1173,223"/>
+<area shape="rect" id="node32" href="$mmc_8c.html#a5c1de14a403aada7078527fd311078c7" title="mmcGetXXResponse" alt="" coords="851,259,995,285"/>
+<area shape="rect" id="node34" href="$flash_8c.html#ac586d9a9d6b84038ddccb549052a38f5" title="Read a sector and verify the checksum. " alt="" coords="499,639,621,665"/>
+<area shape="rect" id="node35" href="$flash_8c.html#a3acb9fe3d3714aa1dcdd72a8851e5484" title="Read a single sector from the flash card. " alt="" coords="698,639,777,665"/>
+<area shape="rect" id="node37" href="$mpu_8c.html#ae32ab7a126f1a348ee342a117c26a827" title="This function gets the current accelerometer value from the MPU6050. " alt="" coords="687,804,788,831"/>
+<area shape="rect" id="node38" href="$comm_8c.html#a29aeb1447e5d2de1da8ee5d87fbe2d97" title="Receive method for USCI B1 I2C operation. " alt="" coords="880,779,965,805"/>
+<area shape="rect" id="node40" href="$comm_8c.html#a1eb0cd49631429c70b5b46c6438721a9" title="Get method for USCI B1 status. " alt="" coords="873,829,972,856"/>
+<area shape="rect" id="node39" href="$comm_8c.html#a8f7f68ec9a8b50cfdb98163787157ee2" title="Configures USCI B1 for operation. " alt="" coords="1068,841,1148,868"/>
+<area shape="rect" id="node42" href="$mpu_8c.html#a51dd4d318b0a66c235ef4fac3b96bacb" title="This function gets the current gyro value from the MPU6050. " alt="" coords="689,753,785,780"/>
+<area shape="rect" id="node44" href="$mpu_8c.html#afb76f7f6daa79f9025788237e7a1a4e1" title="This function sets the sampling rate of MPU6050. " alt="" coords="496,936,624,963"/>
+<area shape="rect" id="node45" href="$mpu_8c.html#ad5719093bdef3795b0ab436e6b9d7703" title="This function writes a single byte to a register in the MPU6050. " alt="" coords="687,912,788,939"/>
+<area shape="rect" id="node46" href="$comm_8c.html#ae0290657fef25a40fcb6cc520fd6a5d6" title="Transmit method for USCI B1 I2C operation. " alt="" coords="879,905,966,932"/>
+<area shape="rect" id="node49" href="$comm_8c.html#a62eb3fb5e7928a31ade57b8fa39a6871" title="Transmit method for USCI A0 UART operation. " alt="" coords="515,873,605,900"/>
+<area shape="rect" id="node50" href="$comm_8c.html#ada62fa438c3ebff1a9ffc3fc9ab70928" title="Configures USCI A0 for operation. " alt="" coords="697,861,777,888"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="mmcSetBlockLength" name="mmcSetBlockLength">
+<area shape="rect" id="node2" href="$mmc_8c.html#a45553c72d5076047f5fa8a1da13d0e44" title="mmcSendCmd" alt="" coords="209,31,317,57"/>
+<area shape="rect" id="node7" href="$mmc_8c.html#a6e83355b1d22a078cac7314143c8b2d4" title="mmcGetResponse" alt="" coords="197,81,328,108"/>
+<area shape="rect" id="node3" href="$mmc_8c.html#aab58b8b57456cc34e76aaa63478b424a" title="spiSendFrame" alt="" coords="376,31,483,57"/>
+<area shape="rect" id="node4" href="$comm_8c.html#acac01b5fff8d81782043a7510da979dc" title="Transmit method for USCI B0 SPI operation. " alt="" coords="537,5,623,32"/>
+<area shape="rect" id="node6" href="$comm_8c.html#a30cd6ac2ee3f3ebb409b63fcdcabf28d" title="Get method for USCI B0 status. " alt="" coords="531,56,629,83"/>
+<area shape="rect" id="node5" href="$comm_8c.html#a4f101e86fed045bdeccb60f91eaa02fd" title="Configures USCI B0 for operation. " alt="" coords="677,5,757,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="comm_hal_5342.h" name="comm_hal_5342.h">
+<area shape="rect" id="node3" href="$comm_8h.html" title="This library provides functions for interfacing MSP430 USCI modules in a relatively intuitive way..." alt="" coords="140,80,209,107"/>
+<area shape="rect" id="node4" href="$util_8h.html" title="util.h" alt="" coords="107,155,157,181"/>
+<area shape="rect" id="node7" href="$clocks_8h.html" title="clocks.h" alt="" coords="182,155,252,181"/>
+<area shape="rect" id="node5" href="$hal_8h.html" title="hal.h" alt="" coords="107,229,157,256"/>
+</map>

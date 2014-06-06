@@ -1,0 +1,4 @@
+<map id="ftdiInit" name="ftdiInit">
+<area shape="rect" id="node2" href="$comm_8c.html#af70da4f96e4931b9e26a6bbac4fce4bf" title="Registers an application for use of a USCI module. " alt="" coords="110,5,213,32"/>
+<area shape="rect" id="node3" href="$comm_8c.html#af4dfad55f1691c971928cf185a338f84" title="Resets USCI A0 without writing over control regs. " alt="" coords="119,56,204,83"/>
+</map>

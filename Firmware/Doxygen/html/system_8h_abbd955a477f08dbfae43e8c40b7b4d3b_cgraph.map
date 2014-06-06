@@ -1,0 +1,12 @@
+<map id="sysEndSession" name="sysEndSession">
+<area shape="rect" id="node2" href="$filesystem_8c.html#ad29a980f158d6e70f9d4eeac81863b2e" title="End a running session. " alt="" coords="182,81,285,108"/>
+<area shape="rect" id="node5" href="$rtc_8c.html#a932ad0638809d1facdb1481fee1d78c8" title="rtcGetTime" alt="" coords="361,5,447,32"/>
+<area shape="rect" id="node8" href="$interrupts_8c.html#a3a93ef67c9f288c8151704a26e8e40ca" title="clearSW1Callback" alt="" coords="169,132,298,159"/>
+<area shape="rect" id="node10" href="$interrupts_8c.html#ac387bd76de3d7ede0059cee7f0ddfa76" title="clearSW2Callback" alt="" coords="169,183,298,209"/>
+<area shape="rect" id="node11" href="$interrupts_8c.html#a08e51a1426d117ba45dfd329b2988bbb" title="clearMPUCallback" alt="" coords="169,233,298,260"/>
+<area shape="rect" id="node3" href="$flash_8c.html#a7f9ba32003fba07b69105b9bea9fed4c" title="Write a sector and read it back to verify correctness. " alt="" coords="510,107,634,133"/>
+<area shape="rect" id="node6" href="$filesystem_8c.html#aeff5276ca19830c36f34523ec7e37cc8" title="Update the session info in flash. " alt="" coords="355,107,453,133"/>
+<area shape="rect" id="node7" href="$filesystem_8c.html#aa42594b4220920802e420eaba060ade9" title="Update the card info in flash. " alt="" coords="350,157,458,184"/>
+<area shape="rect" id="node4" href="$flash_8h.html#aab676ef9ba7690db2729bc7901975927" title="Perform a 16&#45;bit fletcher checksum on a buffer. " alt="" coords="683,107,810,133"/>
+<area shape="rect" id="node9" href="$interrupts_8c.html#a06dd6de8d440db94104057cd2ae546e1" title="dummyCallback" alt="" coords="347,208,461,235"/>
+</map>

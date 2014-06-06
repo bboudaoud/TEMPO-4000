@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['raddr',['rAddr',['../structuconf.html#aa1c18222d10f45abe79f443a8b957c54',1,'uconf']]],
+  ['read_5fretries',['READ_RETRIES',['../flash_8h.html#a4667d8f552b0f5566832ce0cbda6ab23',1,'flash.h']]],
+  ['readonly',['readOnly',['../structcard_status_code.html#abd72f25941727cfd1a50feb003f69bfa',1,'cardStatusCode']]],
+  ['refo',['REFO',['../timing_8h.html#ad9d2c25a99fe7c17c22e331b6e805806a1806805b78e15f7642a12bdf1efee7be',1,'timing.h']]],
+  ['regaddr',['regAddr',['../structi2c_data_packet.html#a161b7eb7b230026a620cbef219708d4a',1,'i2cDataPacket']]],
+  ['registercomm',['registerComm',['../comm_8c.html#af70da4f96e4931b9e26a6bbac4fce4bf',1,'registerComm(usciConfig *conf):&#160;comm.c'],['../comm_8h.html#af70da4f96e4931b9e26a6bbac4fce4bf',1,'registerComm(usciConfig *conf):&#160;comm.c']]],
+  ['registermpucallback',['registerMPUCallback',['../interrupts_8c.html#a6089a2c3e818d5bd8b2c68e9e61a95e2',1,'interrupts.c']]],
+  ['registersw1callback',['registerSW1Callback',['../interrupts_8c.html#afca9577b45e269f738134d967728181e',1,'interrupts.c']]],
+  ['registersw2callback',['registerSW2Callback',['../interrupts_8c.html#a2c9d372439040ad8e21c127455f93cd2',1,'interrupts.c']]],
+  ['replyheader',['replyHeader',['../structreply_header.html',1,'']]],
+  ['resetuca0',['resetUCA0',['../comm_8c.html#af4dfad55f1691c971928cf185a338f84',1,'resetUCA0(unsigned int commID):&#160;comm.c'],['../comm_8h.html#af4dfad55f1691c971928cf185a338f84',1,'resetUCA0(unsigned int commID):&#160;comm.c']]],
+  ['resetuca1',['resetUCA1',['../comm_8h.html#a8f859ee35cfe7fa16282760eaf1edbbd',1,'comm.h']]],
+  ['resetucb0',['resetUCB0',['../comm_8c.html#a85941a258add379ddb8f307f0e4d994c',1,'resetUCB0(unsigned int commID):&#160;comm.c'],['../comm_8h.html#a85941a258add379ddb8f307f0e4d994c',1,'resetUCB0(unsigned int commID):&#160;comm.c']]],
+  ['resetucb1',['resetUCB1',['../comm_8c.html#a0ab99af5ba8791b79989645dd081b948',1,'resetUCB1(unsigned int commID):&#160;comm.c'],['../comm_8h.html#a0ab99af5ba8791b79989645dd081b948',1,'resetUCB1(unsigned int commID):&#160;comm.c']]],
+  ['response',['response',['../structreply_header.html#a98086e1d9fcba9753c8fb4bd8d87359f',1,'replyHeader']]],
+  ['rtc_2ec',['rtc.c',['../rtc_8c.html',1,'']]],
+  ['rtc_2eh',['rtc.h',['../rtc_8h.html',1,'']]],
+  ['rtc_5fisr',['RTC_ISR',['../rtc_8c.html#a4f07a9249b13e39d49ea555ee2c12775',1,'rtc.c']]],
+  ['rtcgettime',['rtcGetTime',['../rtc_8c.html#a932ad0638809d1facdb1481fee1d78c8',1,'rtcGetTime(void):&#160;rtc.c'],['../rtc_8h.html#a932ad0638809d1facdb1481fee1d78c8',1,'rtcGetTime(void):&#160;rtc.c']]],
+  ['rtcinit',['rtcInit',['../rtc_8c.html#aacc2e6f057d1a96e71dc2616538d689b',1,'rtcInit(time *currTime):&#160;rtc.c'],['../rtc_8h.html#aacc2e6f057d1a96e71dc2616538d689b',1,'rtcInit(time *currTime):&#160;rtc.c']]],
+  ['rtcsettime',['rtcSetTime',['../rtc_8c.html#a2c5b94d098744e15e474f42dd7996727',1,'rtcSetTime(time *t):&#160;rtc.c'],['../rtc_8h.html#a2c5b94d098744e15e474f42dd7996727',1,'rtcSetTime(time *t):&#160;rtc.c']]],
+  ['runcommand',['runCommand',['../command_8c.html#ae72397faaa65c39e4f2f4823c19c43d2',1,'runCommand(cmdPkt *cmd):&#160;command.c'],['../command_8h.html#ae72397faaa65c39e4f2f4823c19c43d2',1,'runCommand(cmdPkt *cmd):&#160;command.c']]],
+  ['rx',['RX',['../comm_8h.html#aedd1bacab7b12a5efdd3c8298175d780a4aca20d6e60fffb66e9668b3a6592531',1,'comm.h']]],
+  ['rxptr',['rxPtr',['../structuconf.html#aca10ff930d1ffd4d71043b6a4c99721d',1,'uconf']]]
+];

@@ -1,0 +1,10 @@
+<map id="registerComm" name="registerComm">
+<area shape="rect" id="node2" href="$ftdi_8h.html#a86e8ec1a730751ffb2d0888866a8cf00" title="Initializes the UCA0 UART for use with an FT232 USB to UART bridge. " alt="" coords="164,5,220,32"/>
+<area shape="rect" id="node3" href="$mmc_8h.html#a674b53ab2cb86b4c079847a4d4f7b3f5" title="mmcInit" alt="" coords="158,56,226,83"/>
+<area shape="rect" id="node9" href="$mpu_8h.html#aebd8ab4e8130c4440f4809408a86b7ac" title="This function registers the I2C port for communication and sets up the MPU6050. " alt="" coords="276,107,340,133"/>
+<area shape="rect" id="node4" href="$flash_8h.html#a9f9e0b850d75d42457f69e391e89c4c6" title="Initialize flash card for communication. " alt="" coords="275,56,341,83"/>
+<area shape="rect" id="node5" href="$filesystem_8h.html#a37237af6c97cdc2d5a694f4e06892a76" title="Initialize the file system. " alt="" coords="405,5,454,32"/>
+<area shape="rect" id="node6" href="$filesystem_8h.html#a269eb183d5620ad03476838d2d6dcf2c" title="Resume the file system. " alt="" coords="389,56,469,83"/>
+<area shape="rect" id="node7" href="$system_8h.html#a771c49564e557c43915532fe5be26f85" title="Initialize the system (after reset) " alt="" coords="518,81,578,108"/>
+<area shape="rect" id="node8" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="627,81,677,108"/>
+</map>

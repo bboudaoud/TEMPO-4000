@@ -1,0 +1,6 @@
+<map id="resetUCA0" name="resetUCA0">
+<area shape="rect" id="node2" href="$ftdi_8h.html#a86e8ec1a730751ffb2d0888866a8cf00" title="Initializes the UCA0 UART for use with an FT232 USB to UART bridge. " alt="" coords="147,5,203,32"/>
+<area shape="rect" id="node3" href="$ftdi_8h.html#aca2328b7add537c57c0f9d7e25cfea80" title="Clears buffer management for the FTDI UART channel. " alt="" coords="139,56,210,83"/>
+<area shape="rect" id="node4" href="$system_8h.html#a972eedbc68ae911757b8efa8952aa1fc" title="Update the system state. " alt="" coords="259,56,351,83"/>
+<area shape="rect" id="node5" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="400,56,451,83"/>
+</map>

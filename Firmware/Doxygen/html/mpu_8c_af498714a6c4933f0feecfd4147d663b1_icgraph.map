@@ -1,0 +1,7 @@
+<map id="mpuRegRead" name="mpuRegRead">
+<area shape="rect" id="node2" href="$mpu_8h.html#afefa748f0704df53edf22d8dd04c1e6b" title="This function returns the status of the MPU interrupt enable. " alt="" coords="155,5,275,32"/>
+<area shape="rect" id="node3" href="$mpu_8h.html#a7a197e52f453792f9cacac6a9ecfc287" title="This function returns the value from the MPU WHOAMI register. " alt="" coords="166,56,263,83"/>
+<area shape="rect" id="node4" href="$mpu_8h.html#aebd8ab4e8130c4440f4809408a86b7ac" title="This function registers the I2C port for communication and sets up the MPU6050. " alt="" coords="323,56,387,83"/>
+<area shape="rect" id="node5" href="$system_8h.html#a771c49564e557c43915532fe5be26f85" title="Initialize the system (after reset) " alt="" coords="435,56,495,83"/>
+<area shape="rect" id="node6" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="544,56,595,83"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="clocks.h" name="clocks.h">
+<area shape="rect" id="node2" href="$comm_8h.html" title="This library provides functions for interfacing MSP430 USCI modules in a relatively intuitive way..." alt="" coords="283,80,352,107"/>
+<area shape="rect" id="node7" href="$mpu_8c.html" title="mpu.c" alt="" coords="413,155,472,181"/>
+<area shape="rect" id="node9" href="$timing_8h.html" title="timing.h" alt="" coords="543,80,611,107"/>
+<area shape="rect" id="node3" href="$comm_8c.html" title="This library provides functions for interfacing MSP430 USCI modules in a relatively intuitive way..." alt="" coords="5,155,75,181"/>
+<area shape="rect" id="node4" href="$comm__hal__5342_8h.html" title="This library provides simple HAL level functionality for setting up and clearing I/O pins for USCI op..." alt="" coords="99,155,227,181"/>
+<area shape="rect" id="node5" href="$ftdi_8c.html" title="ftdi.c" alt="" coords="251,155,301,181"/>
+<area shape="rect" id="node6" href="$mmc_8c.html" title="mmc.c" alt="" coords="326,155,388,181"/>
+<area shape="rect" id="node8" href="$system_8c.html" title="system.c" alt="" coords="497,155,572,181"/>
+<area shape="rect" id="node10" href="$rtc_8c.html" title="rtc.c" alt="" coords="597,155,645,181"/>
+<area shape="rect" id="node11" href="$timing_8c.html" title="timing.c" alt="" coords="670,155,737,181"/>
+</map>

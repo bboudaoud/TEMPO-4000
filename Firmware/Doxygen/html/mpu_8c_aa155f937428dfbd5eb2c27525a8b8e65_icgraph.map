@@ -1,0 +1,10 @@
+<map id="mpuSleepEn" name="mpuSleepEn">
+<area shape="rect" id="node2" href="$mpu_8h.html#aebd8ab4e8130c4440f4809408a86b7ac" title="This function registers the I2C port for communication and sets up the MPU6050. " alt="" coords="157,5,221,32"/>
+<area shape="rect" id="node3" href="$system_8h.html#a771c49564e557c43915532fe5be26f85" title="Initialize the system (after reset) " alt="" coords="307,56,367,83"/>
+<area shape="rect" id="node5" href="$system_8h.html#ab112a1e0291e6fe889425ea1af602171" title="Put the system to sleep. " alt="" coords="151,107,227,133"/>
+<area shape="rect" id="node7" href="$system_8h.html#a776671d27b9823dfa3b52cb403eb5e2f" title="Start a new data session. " alt="" coords="278,157,397,184"/>
+<area shape="rect" id="node8" href="$system_8h.html#ad5e178a6a6d6d9bf4451608d1ed1c7ef" title="Pause the system during data collection. " alt="" coords="149,208,229,235"/>
+<area shape="rect" id="node9" href="$system_8h.html#af0c0706aba53d227b07eb1c9fbadd568" title="Resume collection during a pause from data collection. " alt="" coords="292,208,383,235"/>
+<area shape="rect" id="node4" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="605,81,656,108"/>
+<area shape="rect" id="node6" href="$system_8h.html#a3281e94ef2cc4e5d88bfcdaa503e673c" title="Execute the next event waiting on the event queue. " alt="" coords="446,107,557,133"/>
+</map>

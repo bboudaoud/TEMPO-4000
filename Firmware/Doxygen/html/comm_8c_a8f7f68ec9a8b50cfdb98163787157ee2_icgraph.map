@@ -1,0 +1,33 @@
+<map id="confUCB1" name="confUCB1">
+<area shape="rect" id="node2" href="$comm_8h.html#ae0290657fef25a40fcb6cc520fd6a5d6" title="Transmit method for USCI B1 I2C operation. " alt="" coords="134,335,221,361"/>
+<area shape="rect" id="node23" href="$comm_8h.html#a29aeb1447e5d2de1da8ee5d87fbe2d97" title="Receive method for USCI B1 I2C operation. " alt="" coords="135,512,220,539"/>
+<area shape="rect" id="node3" href="$mpu_8h.html#ad5719093bdef3795b0ab436e6b9d7703" title="This function writes a single byte to a register in the MPU6050. " alt="" coords="269,208,371,235"/>
+<area shape="rect" id="node4" href="$mpu_8h.html#ad95c9f6011fd1df75d5fd71072ee51e6" title="This function writes a RAM copy of MPU settings into the MPU6050. " alt="" coords="455,157,537,184"/>
+<area shape="rect" id="node8" href="$mpu_8h.html#a8bf86992df821d4f7a0a232e8b0c8330" title="This function resets the MPU6050. " alt="" coords="455,259,537,285"/>
+<area shape="rect" id="node9" href="$mpu_8h.html#aa155f937428dfbd5eb2c27525a8b8e65" title="mpuSleepEn" alt="" coords="448,360,544,387"/>
+<area shape="rect" id="node15" href="$mpu_8h.html#afb76f7f6daa79f9025788237e7a1a4e1" title="This function sets the sampling rate of MPU6050. " alt="" coords="432,411,560,437"/>
+<area shape="rect" id="node19" href="$mpu_8h.html#add395f9a90561f6bf0168f2d30400d76" title="This function sets the full scale range of the accelerometer. " alt="" coords="419,5,573,32"/>
+<area shape="rect" id="node20" href="$mpu_8h.html#a86f1df8c9a278737d22e774dc6009b9b" title="This function sets the full scale range of the gyro. " alt="" coords="422,56,570,83"/>
+<area shape="rect" id="node21" href="$mpu_8h.html#abfc4c0a13bef1bac78a9795d03124018" title="This function sets up the MPU6050 parameters related to motion detection. " alt="" coords="435,107,557,133"/>
+<area shape="rect" id="node22" href="$mpu_8c.html#ae75554d1988e4e89fc0543e98360f0eb" title="mpuIntConfig" alt="" coords="447,208,545,235"/>
+<area shape="rect" id="node5" href="$mpu_8h.html#aebd8ab4e8130c4440f4809408a86b7ac" title="This function registers the I2C port for communication and sets up the MPU6050. " alt="" coords="661,208,725,235"/>
+<area shape="rect" id="node6" href="$system_8h.html#a771c49564e557c43915532fe5be26f85" title="Initialize the system (after reset) " alt="" coords="843,259,903,285"/>
+<area shape="rect" id="node7" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="1141,411,1192,437"/>
+<area shape="rect" id="node10" href="$system_8h.html#ab112a1e0291e6fe889425ea1af602171" title="Put the system to sleep. " alt="" coords="835,335,911,361"/>
+<area shape="rect" id="node12" href="$system_8h.html#a776671d27b9823dfa3b52cb403eb5e2f" title="Start a new data session. " alt="" coords="814,411,933,437"/>
+<area shape="rect" id="node13" href="$system_8h.html#ad5e178a6a6d6d9bf4451608d1ed1c7ef" title="Pause the system during data collection. " alt="" coords="653,411,733,437"/>
+<area shape="rect" id="node14" href="$system_8h.html#af0c0706aba53d227b07eb1c9fbadd568" title="Resume collection during a pause from data collection. " alt="" coords="828,461,919,488"/>
+<area shape="rect" id="node11" href="$system_8h.html#a3281e94ef2cc4e5d88bfcdaa503e673c" title="Execute the next event waiting on the event queue. " alt="" coords="982,411,1093,437"/>
+<area shape="rect" id="node16" href="$command_8h.html#ac749f9630fea98a47543724b93c495a5" title="Set the system sampling rate to the desired value. " alt="" coords="621,512,765,539"/>
+<area shape="rect" id="node17" href="$command_8h.html#ae72397faaa65c39e4f2f4823c19c43d2" title="runCommand" alt="" coords="824,512,923,539"/>
+<area shape="rect" id="node18" href="$system_8h.html#a972eedbc68ae911757b8efa8952aa1fc" title="Update the system state. " alt="" coords="991,487,1083,513"/>
+<area shape="rect" id="node24" href="$mpu_8h.html#af498714a6c4933f0feecfd4147d663b1" title="This function reads a single byte from a register in the MPU6050. " alt="" coords="270,461,370,488"/>
+<area shape="rect" id="node27" href="$mpu_8h.html#ae32ab7a126f1a348ee342a117c26a827" title="This function gets the current accelerometer value from the MPU6050. " alt="" coords="445,563,547,589"/>
+<area shape="rect" id="node30" href="$mpu_8h.html#a51dd4d318b0a66c235ef4fac3b96bacb" title="This function gets the current gyro value from the MPU6050. " alt="" coords="448,613,544,640"/>
+<area shape="rect" id="node32" href="$mpu_8h.html#ac9768a2c76e8d116ed37158ae97128f0" title="This function gets the current temperature value from the MPU6050. " alt="" coords="270,512,370,539"/>
+<area shape="rect" id="node25" href="$mpu_8h.html#afefa748f0704df53edf22d8dd04c1e6b" title="This function returns the status of the MPU interrupt enable. " alt="" coords="436,461,556,488"/>
+<area shape="rect" id="node26" href="$mpu_8h.html#a7a197e52f453792f9cacac6a9ecfc287" title="This function returns the value from the MPU WHOAMI register. " alt="" coords="447,309,545,336"/>
+<area shape="rect" id="node28" href="$command_8h.html#ad20424e6fc023b8dee0a3dc0a6a759b9" title="Get the most recent accelerometer values. " alt="" coords="645,613,742,640"/>
+<area shape="rect" id="node29" href="$system_8h.html#a0e2e8dad2acdd9148767c662b08edb1b" title="Sample the MPU on an interrupt. " alt="" coords="650,563,737,589"/>
+<area shape="rect" id="node31" href="$command_8h.html#a27a77d646b4df055cf68d845ee76c42b" title="Get the most recent gyro values. " alt="" coords="647,664,739,691"/>
+</map>

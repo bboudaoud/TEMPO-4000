@@ -1,0 +1,34 @@
+<map id="sysStartSession" name="sysStartSession">
+<area shape="rect" id="node2" href="$interrupts_8c.html#afca9577b45e269f738134d967728181e" title="registerSW1Callback" alt="" coords="544,80,688,107"/>
+<area shape="rect" id="node3" href="$system_8c.html#ad5e178a6a6d6d9bf4451608d1ed1c7ef" title="Pause the system during data collection. " alt="" coords="205,181,285,208"/>
+<area shape="rect" id="node27" href="$interrupts_8c.html#a4a77683e1e6bf6dd75de14420934a28d" title="sw1IntCfg" alt="" coords="206,80,285,107"/>
+<area shape="rect" id="node28" href="$interrupts_8c.html#a2c9d372439040ad8e21c127455f93cd2" title="registerSW2Callback" alt="" coords="173,131,317,157"/>
+<area shape="rect" id="node29" href="$system_8c.html#a741860d7c7ca2fc2ab305996586da3a8" title="Stop data collection. " alt="" coords="207,485,283,512"/>
+<area shape="rect" id="node31" href="$interrupts_8c.html#adffdde5c895639affc223a8a7b33949f" title="sw2IntCfg" alt="" coords="206,232,285,259"/>
+<area shape="rect" id="node10" href="$interrupts_8c.html#a6089a2c3e818d5bd8b2c68e9e61a95e2" title="registerMPUCallback" alt="" coords="544,181,688,208"/>
+<area shape="rect" id="node11" href="$system_8c.html#a0e2e8dad2acdd9148767c662b08edb1b" title="Sample the MPU on an interrupt. " alt="" coords="573,283,659,309"/>
+<area shape="rect" id="node32" href="$interrupts_8c.html#a36adf9ed3765c9a443d62df03fc1dcbc" title="mpuIntPinCfg" alt="" coords="196,384,295,411"/>
+<area shape="rect" id="node5" href="$mpu_8c.html#aa155f937428dfbd5eb2c27525a8b8e65" title="mpuSleepEn" alt="" coords="568,131,664,157"/>
+<area shape="rect" id="node33" href="$filesystem_8c.html#a52a6f393ec15b8e284bc930f952cd4fb" title="Start a new session. " alt="" coords="900,536,1007,563"/>
+<area shape="rect" id="node22" href="$rtc_8c.html#a932ad0638809d1facdb1481fee1d78c8" title="rtcGetTime" alt="" coords="1081,536,1167,563"/>
+<area shape="rect" id="node30" href="$util_8c.html#a9c16d7a8760cc0260a1c7d79847d2f99" title="Blink LED rep times using spin loops for timing. " alt="" coords="406,435,455,461"/>
+<area shape="rect" id="node4" href="$system_8c.html#af0c0706aba53d227b07eb1c9fbadd568" title="Resume collection during a pause from data collection. " alt="" coords="385,181,476,208"/>
+<area shape="rect" id="node25" href="$interrupts_8c.html#a08e51a1426d117ba45dfd329b2988bbb" title="clearMPUCallback" alt="" coords="366,232,495,259"/>
+<area shape="rect" id="node6" href="$mpu_8c.html#ad5719093bdef3795b0ab436e6b9d7703" title="This function writes a single byte to a register in the MPU6050. " alt="" coords="736,131,837,157"/>
+<area shape="rect" id="node7" href="$comm_8c.html#ae0290657fef25a40fcb6cc520fd6a5d6" title="Transmit method for USCI B1 I2C operation. " alt="" coords="910,131,997,157"/>
+<area shape="rect" id="node9" href="$comm_8c.html#a1eb0cd49631429c70b5b46c6438721a9" title="Get method for USCI B1 status. " alt="" coords="904,181,1003,208"/>
+<area shape="rect" id="node8" href="$comm_8c.html#a8f7f68ec9a8b50cfdb98163787157ee2" title="Configures USCI B1 for operation. " alt="" coords="1084,181,1164,208"/>
+<area shape="rect" id="node12" href="$mpu_8c.html#ae32ab7a126f1a348ee342a117c26a827" title="This function gets the current accelerometer value from the MPU6050. " alt="" coords="736,283,837,309"/>
+<area shape="rect" id="node14" href="$filesystem_8c.html#a38da66fc085afbb50769720a65511e7a" title="Write data to the current open data session. " alt="" coords="1079,333,1169,360"/>
+<area shape="rect" id="node17" href="$mpu_8c.html#a51dd4d318b0a66c235ef4fac3b96bacb" title="This function gets the current gyro value from the MPU6050. " alt="" coords="739,181,835,208"/>
+<area shape="rect" id="node18" href="$mpu_8c.html#ac9768a2c76e8d116ed37158ae97128f0" title="This function gets the current temperature value from the MPU6050. " alt="" coords="737,232,837,259"/>
+<area shape="rect" id="node19" href="$system_8c.html#aed7fd0b0746e3855fcbd2f62b4b34c3e" title="Enqueue a sysEvent in the event queue for execution. " alt="" coords="745,435,828,461"/>
+<area shape="rect" id="node13" href="$comm_8c.html#a29aeb1447e5d2de1da8ee5d87fbe2d97" title="Receive method for USCI B1 I2C operation. " alt="" coords="911,232,996,259"/>
+<area shape="rect" id="node15" href="$flash_8c.html#a7f9ba32003fba07b69105b9bea9fed4c" title="Write a sector and read it back to verify correctness. " alt="" coords="1227,409,1351,436"/>
+<area shape="rect" id="node16" href="$flash_8h.html#aab676ef9ba7690db2729bc7901975927" title="Perform a 16&#45;bit fletcher checksum on a buffer. " alt="" coords="1401,409,1527,436"/>
+<area shape="rect" id="node20" href="$infoflash_8c.html#a365774cdf6450cd9df23360511da22a7" title="Write the event queue overflow critical flag to info flash. " alt="" coords="885,384,1021,411"/>
+<area shape="rect" id="node21" href="$filesystem_8c.html#ad29a980f158d6e70f9d4eeac81863b2e" title="End a running session. " alt="" coords="902,435,1005,461"/>
+<area shape="rect" id="node23" href="$filesystem_8c.html#aeff5276ca19830c36f34523ec7e37cc8" title="Update the session info in flash. " alt="" coords="1075,485,1173,512"/>
+<area shape="rect" id="node24" href="$filesystem_8c.html#aa42594b4220920802e420eaba060ade9" title="Update the card info in flash. " alt="" coords="1070,384,1178,411"/>
+<area shape="rect" id="node26" href="$interrupts_8c.html#a06dd6de8d440db94104057cd2ae546e1" title="dummyCallback" alt="" coords="559,232,673,259"/>
+</map>

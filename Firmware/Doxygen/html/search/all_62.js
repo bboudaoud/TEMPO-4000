@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['b8_5f0',['B8_0',['../hal_8h.html#a2796a59d07019ade14487c3b3ae7ee4c',1,'hal.h']]],
+  ['b8_5f1',['B8_1',['../hal_8h.html#a9a40029e16c130ada53224eda966637d',1,'hal.h']]],
+  ['b8_5f2',['B8_2',['../hal_8h.html#ad64147674688c844626cafbad7f7f479',1,'hal.h']]],
+  ['b8_5f3',['B8_3',['../hal_8h.html#af769c3bb2836c4b668f2d31fcf8daaca',1,'hal.h']]],
+  ['b8_5f4',['B8_4',['../hal_8h.html#a53159762e46bec15c8f65a81325f13e9',1,'hal.h']]],
+  ['b8_5f5',['B8_5',['../hal_8h.html#a125cc382f54f024ad9ee9e72bb9cf9a5',1,'hal.h']]],
+  ['b8_5f6',['B8_6',['../hal_8h.html#a57c47a1ab3b4313ed58719cb951137d4',1,'hal.h']]],
+  ['b8_5f7',['B8_7',['../hal_8h.html#a30e31753e288abb8f483aea9c0c7570e',1,'hal.h']]],
+  ['baud_5frate',['BAUD_RATE',['../ftdi_8h.html#ad4455691936f92fdd6c37566fc58ba1f',1,'ftdi.h']]],
+  ['bauddiv',['baudDiv',['../structuconf.html#a8c7319cf9673e0d7eee4e92cdd88e396',1,'uconf']]],
+  ['bits',['Bits',['../hal_8h.html#a9794d25d6eca973863ae1d3e0d3f805d',1,'hal.h']]],
+  ['bits8',['Bits8',['../struct_bits8.html',1,'']]],
+  ['bitx0',['Bitx0',['../struct_bits8.html#a7d07ef5ba1c95b27a389545ba4d02e10',1,'Bits8']]],
+  ['bitx1',['Bitx1',['../struct_bits8.html#a451e4ff0a9cc8829f51866032c0b81dd',1,'Bits8']]],
+  ['bitx2',['Bitx2',['../struct_bits8.html#a35ed30f33408b5144220a3e38388fbaa',1,'Bits8']]],
+  ['bitx3',['Bitx3',['../struct_bits8.html#af62e73bf10fab51d478f91e8acb2ebc9',1,'Bits8']]],
+  ['bitx4',['Bitx4',['../struct_bits8.html#a173c4a5e10052bae580fda3a7e0e851c',1,'Bits8']]],
+  ['bitx5',['Bitx5',['../struct_bits8.html#a515b2cbd02cdd4a724304a8b182ee427',1,'Bits8']]],
+  ['bitx6',['Bitx6',['../struct_bits8.html#a173ce215a766fcd353bd56ace999f3f2',1,'Bits8']]],
+  ['bitx7',['Bitx7',['../struct_bits8.html#a82fd9b4c88b7212c5feb1d80f21e0191',1,'Bits8']]],
+  ['blink',['blink',['../util_8c.html#a9c16d7a8760cc0260a1c7d79847d2f99',1,'blink(int rep, int led):&#160;util.c'],['../util_8h.html#a9c16d7a8760cc0260a1c7d79847d2f99',1,'blink(int rep, int led):&#160;util.c']]],
+  ['blink_5fcount',['BLINK_COUNT',['../system_8h.html#a99571412511b6784ac0ecbed0107d78f',1,'system.h']]],
+  ['bool',['bool',['../mpu_8h.html#a425914ea83857c7c43faf0f30d04b16b',1,'mpu.h']]],
+  ['boolean',['boolean',['../mpu_8h.html#a7c6368b321bd9acd0149b030bb8275ed',1,'mpu.h']]],
+  ['bytestowrite',['bytesToWrite',['../filesystem_8c.html#a518d27e6d14977ef93485ae51efa620e',1,'filesystem.c']]]
+];

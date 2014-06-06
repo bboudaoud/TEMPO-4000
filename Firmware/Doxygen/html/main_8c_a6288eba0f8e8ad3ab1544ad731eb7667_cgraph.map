@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$system_8c.html#a771c49564e557c43915532fe5be26f85" title="Initialize the system (after reset) " alt="" coords="294,448,354,475"/>
+<area shape="rect" id="node25" href="$system_8c.html#a3281e94ef2cc4e5d88bfcdaa503e673c" title="Execute the next event waiting on the event queue. " alt="" coords="105,1132,215,1159"/>
+<area shape="rect" id="node46" href="$system_8c.html#a972eedbc68ae911757b8efa8952aa1fc" title="Update the system state. " alt="" coords="278,803,370,829"/>
+<area shape="rect" id="node3" href="$infoflash_8c.html#a862d6371e73dfa8462c5c7f59211943d" title="Initialize RAM copies of Info flash values. " alt="" coords="667,208,725,235"/>
+<area shape="rect" id="node5" href="$infoflash_8c.html#a8c0a3af1e1ff10fdca2ece8ca44d3a41" title="Check whether any critical condition flags are set in info flash. " alt="" coords="445,448,563,475"/>
+<area shape="rect" id="node6" href="$infoflash_8c.html#a3c9ff9842baf266b82cd9ab84a70e88c" title="Retrieve node ID from infoflash. " alt="" coords="451,499,557,525"/>
+<area shape="rect" id="node7" href="$system_8c.html#af749a88756fd8b8659a50ca233c5b0f6" title="Setup port direction, selection, and (sometimes) values. " alt="" coords="470,347,538,373"/>
+<area shape="rect" id="node9" href="$util_8c.html#a9c16d7a8760cc0260a1c7d79847d2f99" title="Blink LED rep times using spin loops for timing. " alt="" coords="671,1411,721,1437"/>
+<area shape="rect" id="node10" href="$timing_8c.html#a99a7b75dfb883af8de64c671323d2476" title="MCLK, SMCLK, and ACLK Init Routine. " alt="" coords="476,397,532,424"/>
+<area shape="rect" id="node12" href="$mpu_8c.html#aebd8ab4e8130c4440f4809408a86b7ac" title="This function registers the I2C port for communication and sets up the MPU6050. " alt="" coords="472,296,536,323"/>
+<area shape="rect" id="node16" href="$mpu_8c.html#aa155f937428dfbd5eb2c27525a8b8e65" title="mpuSleepEn" alt="" coords="648,867,744,893"/>
+<area shape="rect" id="node19" href="$filesystem_8c.html#a269eb183d5620ad03476838d2d6dcf2c" title="Resume the file system. " alt="" coords="464,132,544,159"/>
+<area shape="rect" id="node24" href="$system_8c.html#a53c9ab66d66cad62ac9727b44f6dc6a4" title="(Re&#45;)initialize the event queue " alt="" coords="465,853,543,880"/>
+<area shape="rect" id="node4" href="$flash_8h.html#aab676ef9ba7690db2729bc7901975927" title="Perform a 16&#45;bit fletcher checksum on a buffer. " alt="" coords="818,208,945,235"/>
+<area shape="rect" id="node8" href="$interrupts_8c.html#a374bc16133cc93f46b85dcfe9b17952e" title="chargingIntCfg" alt="" coords="644,461,748,488"/>
+<area shape="rect" id="node11" href="$timing_8c.html#a370ed6e2b4f258dd085c4370d88ecd33" title="FLL Initialization Routine. " alt="" coords="665,512,727,539"/>
+<area shape="rect" id="node13" href="$comm_8c.html#af70da4f96e4931b9e26a6bbac4fce4bf" title="Registers an application for use of a USCI module. " alt="" coords="645,259,747,285"/>
+<area shape="rect" id="node14" href="$mpu_8c.html#a8bf86992df821d4f7a0a232e8b0c8330" title="This function resets the MPU6050. " alt="" coords="655,309,737,336"/>
+<area shape="rect" id="node17" href="$mpu_8c.html#a7a197e52f453792f9cacac6a9ecfc287" title="This function returns the value from the MPU WHOAMI register. " alt="" coords="647,360,745,387"/>
+<area shape="rect" id="node18" href="$mpu_8c.html#ad95c9f6011fd1df75d5fd71072ee51e6" title="This function writes a RAM copy of MPU settings into the MPU6050. " alt="" coords="655,411,737,437"/>
+<area shape="rect" id="node15" href="$mpu_8c.html#ad5719093bdef3795b0ab436e6b9d7703" title="This function writes a single byte to a register in the MPU6050. " alt="" coords="831,411,932,437"/>
+<area shape="rect" id="node20" href="$flash_8c.html#a9f9e0b850d75d42457f69e391e89c4c6" title="Initialize flash card for communication. " alt="" coords="663,5,729,32"/>
+<area shape="rect" id="node21" href="$flash_8c.html#a095c41f1a2a8a1aa697e3cfb048c8b16" title="Read the card ID directly from the MMC card. " alt="" coords="637,56,755,83"/>
+<area shape="rect" id="node22" href="$infoflash_8c.html#a78655627d55a5567193e171c0be0ecdb" title="Retrieve card ID from infoflash. " alt="" coords="645,107,747,133"/>
+<area shape="rect" id="node23" href="$flash_8c.html#ac586d9a9d6b84038ddccb549052a38f5" title="Read a sector and verify the checksum. " alt="" coords="635,157,757,184"/>
+<area shape="rect" id="node26" href="$system_8c.html#ac80578adc15f9abae2df4713f384c34d" title="Pop the next pending #SYS_EVENT off the event queue. " alt="" coords="283,1487,365,1513"/>
+<area shape="rect" id="node27" href="$system_8c.html#a776671d27b9823dfa3b52cb403eb5e2f" title="Start a new data session. " alt="" coords="265,1385,383,1412"/>
+<area shape="rect" id="node41" href="$system_8c.html#abbd955a477f08dbfae43e8c40b7b4d3b" title="End a data session. " alt="" coords="639,1309,753,1336"/>
+<area shape="rect" id="node43" href="$system_8c.html#ab112a1e0291e6fe889425ea1af602171" title="Put the system to sleep. " alt="" coords="286,1132,362,1159"/>
+<area shape="rect" id="node44" href="$mpu_8c.html#a58a63d52a00cd0e158f1fefa4faca206" title="This function clears the MPU data buffer. " alt="" coords="275,1436,373,1463"/>
+<area shape="rect" id="node45" href="$command_8c.html#ae72397faaa65c39e4f2f4823c19c43d2" title="runCommand" alt="" coords="455,904,553,931"/>
+<area shape="rect" id="node28" href="$interrupts_8c.html#afca9577b45e269f738134d967728181e" title="registerSW1Callback" alt="" coords="624,1360,768,1387"/>
+<area shape="rect" id="node29" href="$system_8c.html#ad5e178a6a6d6d9bf4451608d1ed1c7ef" title="Pause the system during data collection. " alt="" coords="464,1360,544,1387"/>
+<area shape="rect" id="node30" href="$interrupts_8c.html#a4a77683e1e6bf6dd75de14420934a28d" title="sw1IntCfg" alt="" coords="465,1208,543,1235"/>
+<area shape="rect" id="node31" href="$interrupts_8c.html#a2c9d372439040ad8e21c127455f93cd2" title="registerSW2Callback" alt="" coords="432,1157,576,1184"/>
+<area shape="rect" id="node32" href="$system_8c.html#a741860d7c7ca2fc2ab305996586da3a8" title="Stop data collection. " alt="" coords="466,1563,542,1589"/>
+<area shape="rect" id="node36" href="$interrupts_8c.html#adffdde5c895639affc223a8a7b33949f" title="sw2IntCfg" alt="" coords="465,1259,543,1285"/>
+<area shape="rect" id="node37" href="$interrupts_8c.html#a6089a2c3e818d5bd8b2c68e9e61a95e2" title="registerMPUCallback" alt="" coords="432,1765,576,1792"/>
+<area shape="rect" id="node38" href="$system_8c.html#a0e2e8dad2acdd9148767c662b08edb1b" title="Sample the MPU on an interrupt. " alt="" coords="461,1613,547,1640"/>
+<area shape="rect" id="node39" href="$interrupts_8c.html#a36adf9ed3765c9a443d62df03fc1dcbc" title="mpuIntPinCfg" alt="" coords="455,1461,553,1488"/>
+<area shape="rect" id="node40" href="$filesystem_8c.html#a52a6f393ec15b8e284bc930f952cd4fb" title="Start a new session. " alt="" coords="828,1715,935,1741"/>
+<area shape="rect" id="node35" href="$rtc_8c.html#a932ad0638809d1facdb1481fee1d78c8" title="rtcGetTime" alt="" coords="995,1588,1082,1615"/>
+<area shape="rect" id="node33" href="$system_8c.html#aed7fd0b0746e3855fcbd2f62b4b34c3e" title="Enqueue a sysEvent in the event queue for execution. " alt="" coords="655,1563,737,1589"/>
+<area shape="rect" id="node34" href="$filesystem_8c.html#ad29a980f158d6e70f9d4eeac81863b2e" title="End a running session. " alt="" coords="830,1537,933,1564"/>
+<area shape="rect" id="node42" href="$interrupts_8c.html#a3a93ef67c9f288c8151704a26e8e40ca" title="clearSW1Callback" alt="" coords="817,1309,946,1336"/>
+<area shape="rect" id="node47" href="$ftdi_8c.html#aca2328b7add537c57c0f9d7e25cfea80" title="Clears buffer management for the FTDI UART channel. " alt="" coords="469,701,539,728"/>
+<area shape="rect" id="node48" href="$ftdi_8c.html#ae9d5b6de0cb5cb26a685197f22e8876e" title="Gets the number of bytes available from the FTDI chip. " alt="" coords="450,752,558,779"/>
+<area shape="rect" id="node49" href="$ftdi_8c.html#a30dae7ee9f6c99547f43691d2eae8681" title="Gets the status of the FTDI communications interface. " alt="" coords="455,803,553,829"/>
+<area shape="rect" id="node50" href="$ftdi_8c.html#a7d56e633a9a1be8132b278adfb68469e" title="Reads a specified number of bytes from the FTDI chip. " alt="" coords="469,651,539,677"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="spiSendFrame" name="spiSendFrame">
+<area shape="rect" id="node2" href="$comm_8c.html#acac01b5fff8d81782043a7510da979dc" title="Transmit method for USCI B0 SPI operation. " alt="" coords="166,5,253,32"/>
+<area shape="rect" id="node4" href="$comm_8c.html#a30cd6ac2ee3f3ebb409b63fcdcabf28d" title="Get method for USCI B0 status. " alt="" coords="160,56,259,83"/>
+<area shape="rect" id="node3" href="$comm_8c.html#a4f101e86fed045bdeccb60f91eaa02fd" title="Configures USCI B0 for operation. " alt="" coords="307,5,387,32"/>
+</map>

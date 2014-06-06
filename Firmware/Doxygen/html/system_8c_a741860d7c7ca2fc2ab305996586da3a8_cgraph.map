@@ -1,0 +1,11 @@
+<map id="sysClose" name="sysClose">
+<area shape="rect" id="node2" href="$util_8c.html#a9c16d7a8760cc0260a1c7d79847d2f99" title="Blink LED rep times using spin loops for timing. " alt="" coords="147,5,197,32"/>
+<area shape="rect" id="node3" href="$system_8c.html#aed7fd0b0746e3855fcbd2f62b4b34c3e" title="Enqueue a sysEvent in the event queue for execution. " alt="" coords="131,56,213,83"/>
+<area shape="rect" id="node4" href="$infoflash_8c.html#a365774cdf6450cd9df23360511da22a7" title="Write the event queue overflow critical flag to info flash. " alt="" coords="261,5,397,32"/>
+<area shape="rect" id="node5" href="$filesystem_8c.html#ad29a980f158d6e70f9d4eeac81863b2e" title="End a running session. " alt="" coords="278,107,381,133"/>
+<area shape="rect" id="node8" href="$rtc_8c.html#a932ad0638809d1facdb1481fee1d78c8" title="rtcGetTime" alt="" coords="457,56,543,83"/>
+<area shape="rect" id="node6" href="$flash_8c.html#a7f9ba32003fba07b69105b9bea9fed4c" title="Write a sector and read it back to verify correctness. " alt="" coords="603,157,727,184"/>
+<area shape="rect" id="node9" href="$filesystem_8c.html#aeff5276ca19830c36f34523ec7e37cc8" title="Update the session info in flash. " alt="" coords="451,157,549,184"/>
+<area shape="rect" id="node10" href="$filesystem_8c.html#aa42594b4220920802e420eaba060ade9" title="Update the card info in flash. " alt="" coords="446,208,554,235"/>
+<area shape="rect" id="node7" href="$flash_8h.html#aab676ef9ba7690db2729bc7901975927" title="Perform a 16&#45;bit fletcher checksum on a buffer. " alt="" coords="777,157,903,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="mpuGetAccel" name="mpuGetAccel">
+<area shape="rect" id="node2" href="$comm_8c.html#a29aeb1447e5d2de1da8ee5d87fbe2d97" title="Receive method for USCI B1 I2C operation. " alt="" coords="161,5,247,32"/>
+<area shape="rect" id="node4" href="$comm_8c.html#a1eb0cd49631429c70b5b46c6438721a9" title="Get method for USCI B1 status. " alt="" coords="155,56,253,83"/>
+<area shape="rect" id="node3" href="$comm_8c.html#a8f7f68ec9a8b50cfdb98163787157ee2" title="Configures USCI B1 for operation. " alt="" coords="301,5,381,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="sysSetTime" name="sysSetTime">
+<area shape="rect" id="node2" href="$rtc_8c.html#a2c5b94d098744e15e474f42dd7996727" title="rtcSetTime" alt="" coords="144,5,229,32"/>
+<area shape="rect" id="node3" href="$rtc_8c.html#a932ad0638809d1facdb1481fee1d78c8" title="rtcGetTime" alt="" coords="278,5,365,32"/>
+</map>

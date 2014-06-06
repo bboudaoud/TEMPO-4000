@@ -1,0 +1,13 @@
+<map id="flashInit" name="flashInit">
+<area shape="rect" id="node2" href="$mmc_8c.html#a674b53ab2cb86b4c079847a4d4f7b3f5" title="mmcInit" alt="" coords="121,56,189,83"/>
+<area shape="rect" id="node3" href="$comm_8c.html#af70da4f96e4931b9e26a6bbac4fce4bf" title="Registers an application for use of a USCI module. " alt="" coords="238,5,341,32"/>
+<area shape="rect" id="node4" href="$comm_8c.html#a85941a258add379ddb8f307f0e4d994c" title="Resets USCI B0 without writing over control regs. " alt="" coords="247,56,332,83"/>
+<area shape="rect" id="node5" href="$mmc_8c.html#a5b04c47aebbc621561f4191273d4577f" title="mmcGoIdle" alt="" coords="245,107,333,133"/>
+<area shape="rect" id="node6" href="$mmc_8c.html#a45553c72d5076047f5fa8a1da13d0e44" title="mmcSendCmd" alt="" coords="401,56,509,83"/>
+<area shape="rect" id="node11" href="$mmc_8c.html#a6e83355b1d22a078cac7314143c8b2d4" title="mmcGetResponse" alt="" coords="389,107,520,133"/>
+<area shape="rect" id="node12" href="$comm_8c.html#a3e827eea726cc3abb1cb310b459a0781" title="Set method for USCI B0 Baud Rate Divisor. " alt="" coords="403,157,507,184"/>
+<area shape="rect" id="node7" href="$mmc_8c.html#aab58b8b57456cc34e76aaa63478b424a" title="spiSendFrame" alt="" coords="568,56,675,83"/>
+<area shape="rect" id="node8" href="$comm_8c.html#acac01b5fff8d81782043a7510da979dc" title="Transmit method for USCI B0 SPI operation. " alt="" coords="729,31,815,57"/>
+<area shape="rect" id="node10" href="$comm_8c.html#a30cd6ac2ee3f3ebb409b63fcdcabf28d" title="Get method for USCI B0 status. " alt="" coords="723,81,821,108"/>
+<area shape="rect" id="node9" href="$comm_8c.html#a4f101e86fed045bdeccb60f91eaa02fd" title="Configures USCI B0 for operation. " alt="" coords="869,31,949,57"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="sysPause" name="sysPause">
+<area shape="rect" id="node2" href="$system_8h.html#a776671d27b9823dfa3b52cb403eb5e2f" title="Start a new data session. " alt="" coords="401,5,519,32"/>
+<area shape="rect" id="node5" href="$system_8h.html#af0c0706aba53d227b07eb1c9fbadd568" title="Resume collection during a pause from data collection. " alt="" coords="133,31,224,57"/>
+<area shape="rect" id="node3" href="$system_8h.html#a3281e94ef2cc4e5d88bfcdaa503e673c" title="Execute the next event waiting on the event queue. " alt="" coords="569,5,679,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="728,5,779,32"/>
+<area shape="rect" id="node6" href="$system_8h.html#ad5e178a6a6d6d9bf4451608d1ed1c7ef" title="Pause the system during data collection. " alt="" coords="272,31,352,57"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="infoInit" name="infoInit">
+<area shape="rect" id="node2" href="$filesystem_8h.html#a37237af6c97cdc2d5a694f4e06892a76" title="Initialize the file system. " alt="" coords="127,5,177,32"/>
+<area shape="rect" id="node3" href="$filesystem_8h.html#a269eb183d5620ad03476838d2d6dcf2c" title="Resume the file system. " alt="" coords="112,56,192,83"/>
+<area shape="rect" id="node4" href="$system_8h.html#a771c49564e557c43915532fe5be26f85" title="Initialize the system (after reset) " alt="" coords="241,81,301,108"/>
+<area shape="rect" id="node5" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="349,81,400,108"/>
+</map>

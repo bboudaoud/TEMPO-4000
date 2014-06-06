@@ -1,0 +1,11 @@
+<map id="flashReadCardID" name="flashReadCardID">
+<area shape="rect" id="node2" href="$mmc_8c.html#a63d851f51d5bd56fe158a4d902d7a039" title="mmcReadRegister" alt="" coords="174,81,303,108"/>
+<area shape="rect" id="node3" href="$mmc_8c.html#aa088e2b5d1a1fc155c30d6b1c74c51c0" title="mmcSetBlockLength" alt="" coords="353,56,495,83"/>
+<area shape="rect" id="node4" href="$mmc_8c.html#a45553c72d5076047f5fa8a1da13d0e44" title="mmcSendCmd" alt="" coords="555,31,663,57"/>
+<area shape="rect" id="node9" href="$mmc_8c.html#a6e83355b1d22a078cac7314143c8b2d4" title="mmcGetResponse" alt="" coords="544,93,675,120"/>
+<area shape="rect" id="node10" href="$mmc_8c.html#a5c1de14a403aada7078527fd311078c7" title="mmcGetXXResponse" alt="" coords="352,157,496,184"/>
+<area shape="rect" id="node5" href="$mmc_8c.html#aab58b8b57456cc34e76aaa63478b424a" title="spiSendFrame" alt="" coords="723,31,829,57"/>
+<area shape="rect" id="node6" href="$comm_8c.html#acac01b5fff8d81782043a7510da979dc" title="Transmit method for USCI B0 SPI operation. " alt="" coords="883,5,970,32"/>
+<area shape="rect" id="node8" href="$comm_8c.html#a30cd6ac2ee3f3ebb409b63fcdcabf28d" title="Get method for USCI B0 status. " alt="" coords="877,56,976,83"/>
+<area shape="rect" id="node7" href="$comm_8c.html#a4f101e86fed045bdeccb60f91eaa02fd" title="Configures USCI B0 for operation. " alt="" coords="1024,5,1104,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="fsHalt" name="fsHalt">
+<area shape="rect" id="node2" href="$infoflash_8c.html#a19b6173321397a194a3dd96211bc9f38" title="Update last session serial and time epoch to info flash. " alt="" coords="109,30,256,57"/>
+<area shape="rect" id="node3" href="$filesystem_8c.html#ad29a980f158d6e70f9d4eeac81863b2e" title="End a running session. " alt="" coords="131,81,234,108"/>
+<area shape="rect" id="node8" href="$filesystem_8c.html#aa42594b4220920802e420eaba060ade9" title="Update the card info in flash. " alt="" coords="305,132,413,158"/>
+<area shape="rect" id="node4" href="$flash_8c.html#a7f9ba32003fba07b69105b9bea9fed4c" title="Write a sector and read it back to verify correctness. " alt="" coords="462,81,586,108"/>
+<area shape="rect" id="node6" href="$rtc_8c.html#a932ad0638809d1facdb1481fee1d78c8" title="rtcGetTime" alt="" coords="315,30,402,57"/>
+<area shape="rect" id="node7" href="$filesystem_8c.html#aeff5276ca19830c36f34523ec7e37cc8" title="Update the session info in flash. " alt="" coords="309,81,408,108"/>
+<area shape="rect" id="node5" href="$flash_8h.html#aab676ef9ba7690db2729bc7901975927" title="Perform a 16&#45;bit fletcher checksum on a buffer. " alt="" coords="635,81,762,108"/>
+</map>

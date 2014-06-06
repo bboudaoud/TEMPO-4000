@@ -1,0 +1,8 @@
+<map id="rtcSetTime" name="rtcSetTime">
+<area shape="rect" id="node2" href="$command_8h.html#a9b70c48dcddc545c4345e8be5dc2408f" title="Get the system RTC time and return it in the payload. " alt="" coords="139,31,229,57"/>
+<area shape="rect" id="node7" href="$rtc_8h.html#aacc2e6f057d1a96e71dc2616538d689b" title="rtcInit" alt="" coords="157,81,211,108"/>
+<area shape="rect" id="node3" href="$command_8h.html#ae72397faaa65c39e4f2f4823c19c43d2" title="runCommand" alt="" coords="277,31,376,57"/>
+<area shape="rect" id="node4" href="$system_8h.html#a3281e94ef2cc4e5d88bfcdaa503e673c" title="Execute the next event waiting on the event queue. " alt="" coords="425,5,535,32"/>
+<area shape="rect" id="node6" href="$system_8h.html#a972eedbc68ae911757b8efa8952aa1fc" title="Update the system state. " alt="" coords="434,56,526,83"/>
+<area shape="rect" id="node5" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="584,31,635,57"/>
+</map>

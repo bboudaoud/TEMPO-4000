@@ -1,0 +1,27 @@
+*PADS-ECO-V9.3-MILS*
+
+*REMARK* -- ecg_layout.pcb -- Tue Mar 25 11:30:29 2014
+
+
+*NET*
+*SIGNAL* GND 12
+U4.8 U4.9
+*SIGNAL* VCC 12
+U4.1 U4.16
+*END*
+*PADS-ECO-V9.3-MILS*
+
+*REMARK* -- ecg_layout.pcb -- Tue Mar 25 11:51:49 2014
+
+
+*PART*
+J3 INERTIA_LOGO
+*END*
+*PADS-ECO-V9.3-MILS*
+
+*REMARK* -- ecg_layout.pcb -- Wed Mar 26 10:29:40 2014
+
+
+*PART*
+J3 INERTIA_LOGO
+*END*

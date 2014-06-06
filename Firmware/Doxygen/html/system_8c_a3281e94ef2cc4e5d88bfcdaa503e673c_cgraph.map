@@ -1,0 +1,51 @@
+<map id="evtQueExecute" name="evtQueExecute">
+<area shape="rect" id="node2" href="$system_8c.html#ac80578adc15f9abae2df4713f384c34d" title="Pop the next pending #SYS_EVENT off the event queue. " alt="" coords="184,169,267,196"/>
+<area shape="rect" id="node3" href="$system_8c.html#a776671d27b9823dfa3b52cb403eb5e2f" title="Start a new data session. " alt="" coords="166,575,285,601"/>
+<area shape="rect" id="node30" href="$system_8c.html#abbd955a477f08dbfae43e8c40b7b4d3b" title="End a data session. " alt="" coords="349,904,462,931"/>
+<area shape="rect" id="node33" href="$system_8c.html#ab112a1e0291e6fe889425ea1af602171" title="Put the system to sleep. " alt="" coords="187,220,263,247"/>
+<area shape="rect" id="node36" href="$mpu_8c.html#a58a63d52a00cd0e158f1fefa4faca206" title="This function clears the MPU data buffer. " alt="" coords="176,1005,275,1032"/>
+<area shape="rect" id="node38" href="$command_8c.html#ae72397faaa65c39e4f2f4823c19c43d2" title="runCommand" alt="" coords="541,1233,640,1260"/>
+<area shape="rect" id="node4" href="$interrupts_8c.html#afca9577b45e269f738134d967728181e" title="registerSW1Callback" alt="" coords="704,499,848,525"/>
+<area shape="rect" id="node5" href="$system_8c.html#ad5e178a6a6d6d9bf4451608d1ed1c7ef" title="Pause the system during data collection. " alt="" coords="365,600,445,627"/>
+<area shape="rect" id="node23" href="$interrupts_8c.html#a4a77683e1e6bf6dd75de14420934a28d" title="sw1IntCfg" alt="" coords="366,296,445,323"/>
+<area shape="rect" id="node24" href="$interrupts_8c.html#a2c9d372439040ad8e21c127455f93cd2" title="registerSW2Callback" alt="" coords="333,245,477,272"/>
+<area shape="rect" id="node25" href="$system_8c.html#a741860d7c7ca2fc2ab305996586da3a8" title="Stop data collection. " alt="" coords="367,701,443,728"/>
+<area shape="rect" id="node27" href="$interrupts_8c.html#adffdde5c895639affc223a8a7b33949f" title="sw2IntCfg" alt="" coords="366,347,445,373"/>
+<area shape="rect" id="node9" href="$interrupts_8c.html#a6089a2c3e818d5bd8b2c68e9e61a95e2" title="registerMPUCallback" alt="" coords="704,701,848,728"/>
+<area shape="rect" id="node10" href="$system_8c.html#a0e2e8dad2acdd9148767c662b08edb1b" title="Sample the MPU on an interrupt. " alt="" coords="733,752,819,779"/>
+<area shape="rect" id="node28" href="$interrupts_8c.html#a36adf9ed3765c9a443d62df03fc1dcbc" title="mpuIntPinCfg" alt="" coords="356,651,455,677"/>
+<area shape="rect" id="node7" href="$mpu_8c.html#aa155f937428dfbd5eb2c27525a8b8e65" title="mpuSleepEn" alt="" coords="728,372,824,399"/>
+<area shape="rect" id="node29" href="$filesystem_8c.html#a52a6f393ec15b8e284bc930f952cd4fb" title="Start a new session. " alt="" coords="1045,752,1152,779"/>
+<area shape="rect" id="node19" href="$rtc_8c.html#a932ad0638809d1facdb1481fee1d78c8" title="rtcGetTime" alt="" coords="1211,904,1298,931"/>
+<area shape="rect" id="node26" href="$util_8c.html#a9c16d7a8760cc0260a1c7d79847d2f99" title="Blink LED rep times using spin loops for timing. " alt="" coords="566,448,615,475"/>
+<area shape="rect" id="node6" href="$system_8c.html#af0c0706aba53d227b07eb1c9fbadd568" title="Resume collection during a pause from data collection. " alt="" coords="545,651,636,677"/>
+<area shape="rect" id="node22" href="$interrupts_8c.html#a08e51a1426d117ba45dfd329b2988bbb" title="clearMPUCallback" alt="" coords="526,549,655,576"/>
+<area shape="rect" id="node8" href="$mpu_8c.html#ad5719093bdef3795b0ab436e6b9d7703" title="This function writes a single byte to a register in the MPU6050. " alt="" coords="896,372,997,399"/>
+<area shape="rect" id="node11" href="$mpu_8c.html#ae32ab7a126f1a348ee342a117c26a827" title="This function gets the current accelerometer value from the MPU6050. " alt="" coords="896,752,997,779"/>
+<area shape="rect" id="node12" href="$filesystem_8c.html#a38da66fc085afbb50769720a65511e7a" title="Write data to the current open data session. " alt="" coords="1053,664,1144,691"/>
+<area shape="rect" id="node15" href="$mpu_8c.html#a51dd4d318b0a66c235ef4fac3b96bacb" title="This function gets the current gyro value from the MPU6050. " alt="" coords="899,853,995,880"/>
+<area shape="rect" id="node16" href="$mpu_8c.html#ac9768a2c76e8d116ed37158ae97128f0" title="This function gets the current temperature value from the MPU6050. " alt="" coords="897,701,997,728"/>
+<area shape="rect" id="node17" href="$system_8c.html#aed7fd0b0746e3855fcbd2f62b4b34c3e" title="Enqueue a sysEvent in the event queue for execution. " alt="" coords="905,600,988,627"/>
+<area shape="rect" id="node13" href="$flash_8c.html#a7f9ba32003fba07b69105b9bea9fed4c" title="Write a sector and read it back to verify correctness. " alt="" coords="1358,803,1482,829"/>
+<area shape="rect" id="node14" href="$flash_8h.html#aab676ef9ba7690db2729bc7901975927" title="Perform a 16&#45;bit fletcher checksum on a buffer. " alt="" coords="1531,1107,1658,1133"/>
+<area shape="rect" id="node18" href="$filesystem_8c.html#ad29a980f158d6e70f9d4eeac81863b2e" title="End a running session. " alt="" coords="1047,803,1150,829"/>
+<area shape="rect" id="node20" href="$filesystem_8c.html#aeff5276ca19830c36f34523ec7e37cc8" title="Update the session info in flash. " alt="" coords="1205,752,1304,779"/>
+<area shape="rect" id="node21" href="$filesystem_8c.html#aa42594b4220920802e420eaba060ade9" title="Update the card info in flash. " alt="" coords="1201,853,1309,880"/>
+<area shape="rect" id="node31" href="$interrupts_8c.html#a3a93ef67c9f288c8151704a26e8e40ca" title="clearSW1Callback" alt="" coords="526,1005,655,1032"/>
+<area shape="rect" id="node32" href="$interrupts_8c.html#ac387bd76de3d7ede0059cee7f0ddfa76" title="clearSW2Callback" alt="" coords="526,1056,655,1083"/>
+<area shape="rect" id="node34" href="$system_8c.html#a53c9ab66d66cad62ac9727b44f6dc6a4" title="(Re&#45;)initialize the event queue " alt="" coords="366,43,445,69"/>
+<area shape="rect" id="node35" href="$system_8c.html#a2be52727e38f4ff8974fee6e8cc7154f" title="Wake the system from sleep to start taking data or enter command. " alt="" coords="367,144,444,171"/>
+<area shape="rect" id="node37" href="$comm_8c.html#a0ab99af5ba8791b79989645dd081b948" title="Resets USCI B1 without writing over control regs. " alt="" coords="363,1005,448,1032"/>
+<area shape="rect" id="node39" href="$command_8c.html#ad3f98469f9ff5a8f3029ef544ac26862" title="&quot;Handshake&quot; with the node to unlock access to the other commands " alt="" coords="733,1309,819,1336"/>
+<area shape="rect" id="node40" href="$command_8c.html#a9b70c48dcddc545c4345e8be5dc2408f" title="Get the system RTC time and return it in the payload. " alt="" coords="731,1360,821,1387"/>
+<area shape="rect" id="node41" href="$command_8c.html#a74ad95c8e16d4a6705ccb2f6417f84c4" title="Set the system RTC time to a specific value. " alt="" coords="1053,1081,1145,1108"/>
+<area shape="rect" id="node42" href="$command_8c.html#a64a8afbab13873e4393ecf425f9e5c77" title="Get the system firmware version. " alt="" coords="722,1461,830,1488"/>
+<area shape="rect" id="node43" href="$command_8c.html#a716012d22c441a411b412782c4064917" title="Get the node identification number. " alt="" coords="723,1512,829,1539"/>
+<area shape="rect" id="node44" href="$command_8c.html#ab2a9e7ed091ce0504aaf4397316c0472" title="Get the card identification number. " alt="" coords="725,1563,827,1589"/>
+<area shape="rect" id="node45" href="$command_8c.html#a91165cceaf75c18884ffc2c2d91a068a" title="Fetch the desired sector from the card and return it. " alt="" coords="725,1005,827,1032"/>
+<area shape="rect" id="node46" href="$command_8c.html#ad20424e6fc023b8dee0a3dc0a6a759b9" title="Get the most recent accelerometer values. " alt="" coords="727,904,825,931"/>
+<area shape="rect" id="node47" href="$command_8c.html#a27a77d646b4df055cf68d845ee76c42b" title="Get the most recent gyro values. " alt="" coords="730,1056,822,1083"/>
+<area shape="rect" id="node48" href="$command_8c.html#ac749f9630fea98a47543724b93c495a5" title="Set the system sampling rate to the desired value. " alt="" coords="704,1107,848,1133"/>
+<area shape="rect" id="node49" href="$command_8c.html#a0ce4be48976f8eb6d7bf89185220abdb" title="Set the system sampling rate to the desired value. " alt="" coords="731,1208,821,1235"/>
+<area shape="rect" id="node50" href="$ftdi_8c.html#ae56a30fd1991c7adfba23d2fc910cafa" title="Writes a specified number of bytes to the FTDI chip. " alt="" coords="741,1259,811,1285"/>
+</map>

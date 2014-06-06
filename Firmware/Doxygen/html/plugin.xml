@@ -1,0 +1,6 @@
+<plugin name="edu.virginia.ece.inertia.fw.tempo32f" id="edu.virginia.ece.inertia.fw.tempo32f"
+        version="1.0.0" provider-name="Doxygen">
+  <extension point="org.eclipse.help.toc">
+    <toc file="toc.xml" primary="true" />
+  </extension>
+</plugin>

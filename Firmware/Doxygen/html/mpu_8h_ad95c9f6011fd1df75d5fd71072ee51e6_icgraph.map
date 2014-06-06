@@ -1,0 +1,5 @@
+<map id="mpuSetup" name="mpuSetup">
+<area shape="rect" id="node2" href="$mpu_8h.html#aebd8ab4e8130c4440f4809408a86b7ac" title="This function registers the I2C port for communication and sets up the MPU6050. " alt="" coords="136,5,200,32"/>
+<area shape="rect" id="node3" href="$system_8h.html#a771c49564e557c43915532fe5be26f85" title="Initialize the system (after reset) " alt="" coords="249,5,309,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="357,5,408,32"/>
+</map>

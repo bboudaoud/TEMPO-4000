@@ -1,0 +1,18 @@
+<map id="mmcSendCmd" name="mmcSendCmd">
+<area shape="rect" id="node2" href="$mmc_8h.html#a5b04c47aebbc621561f4191273d4577f" title="mmcGoIdle" alt="" coords="191,5,279,32"/>
+<area shape="rect" id="node9" href="$mmc_8h.html#a8c61b09bfb325520bf1a79345e21cf68" title="mmcReadBlock" alt="" coords="363,132,477,159"/>
+<area shape="rect" id="node10" href="$mmc_8h.html#a4ada6b5e06d29ed7da7ddf0b695d86aa" title="mmcWriteBlock" alt="" coords="363,195,477,221"/>
+<area shape="rect" id="node11" href="$mmc_8h.html#a43ac832c64fae49dd95677e089a8fc7f" title="mmcSetBlockLength" alt="" coords="163,157,306,184"/>
+<area shape="rect" id="node12" href="$mmc_8h.html#ad4eaf602f8d34b72a2f7e4d558e08c23" title="mmcReadRegister" alt="" coords="355,56,485,83"/>
+<area shape="rect" id="node3" href="$mmc_8h.html#a674b53ab2cb86b4c079847a4d4f7b3f5" title="mmcInit" alt="" coords="386,5,454,32"/>
+<area shape="rect" id="node4" href="$flash_8h.html#a9f9e0b850d75d42457f69e391e89c4c6" title="Initialize flash card for communication. " alt="" coords="560,5,627,32"/>
+<area shape="rect" id="node5" href="$filesystem_8h.html#a37237af6c97cdc2d5a694f4e06892a76" title="Initialize the file system. " alt="" coords="729,56,778,83"/>
+<area shape="rect" id="node6" href="$filesystem_8h.html#a269eb183d5620ad03476838d2d6dcf2c" title="Resume the file system. " alt="" coords="713,5,793,32"/>
+<area shape="rect" id="node7" href="$system_8h.html#a771c49564e557c43915532fe5be26f85" title="Initialize the system (after reset) " alt="" coords="873,5,933,32"/>
+<area shape="rect" id="node8" href="$main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667" title="main" alt="" coords="1160,56,1211,83"/>
+<area shape="rect" id="node13" href="$flash_8h.html#a095c41f1a2a8a1aa697e3cfb048c8b16" title="Read the card ID directly from the MMC card. " alt="" coords="534,56,653,83"/>
+<area shape="rect" id="node14" href="$command_8h.html#ab2a9e7ed091ce0504aaf4397316c0472" title="Get the card identification number. " alt="" coords="702,107,805,133"/>
+<area shape="rect" id="node15" href="$command_8h.html#ae72397faaa65c39e4f2f4823c19c43d2" title="runCommand" alt="" coords="853,107,952,133"/>
+<area shape="rect" id="node16" href="$system_8h.html#a3281e94ef2cc4e5d88bfcdaa503e673c" title="Execute the next event waiting on the event queue. " alt="" coords="1001,107,1111,133"/>
+<area shape="rect" id="node17" href="$system_8h.html#a972eedbc68ae911757b8efa8952aa1fc" title="Update the system state. " alt="" coords="1010,56,1102,83"/>
+</map>
